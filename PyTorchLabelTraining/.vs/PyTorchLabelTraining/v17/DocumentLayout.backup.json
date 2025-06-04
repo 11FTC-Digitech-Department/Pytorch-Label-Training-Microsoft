@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# Programs\\PyTorchLabelTraining\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F630A4-615D-45EE-A668-99E8B6EC3AC8}|PyTorchLabelTraining.pyproj|D:\\C# Programs\\PyTorchLabelTraining\\PyTorchLabelTraining.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B6F630A4-615D-45EE-A668-99E8B6EC3AC8}|PyTorchLabelTraining.pyproj|solutionrelative:PyTorchLabelTraining.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PyTorchLabelTraining.py",
+              "DocumentMoniker": "D:\\C# Programs\\PyTorchLabelTraining\\PyTorchLabelTraining.py",
+              "RelativeDocumentMoniker": "PyTorchLabelTraining.py",
+              "ToolTip": "D:\\C# Programs\\PyTorchLabelTraining\\PyTorchLabelTraining.py",
+              "RelativeToolTip": "PyTorchLabelTraining.py",
+              "ViewState": "AgIAALwAAAAAAAAAAAAkwNQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-04T13:32:34.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
